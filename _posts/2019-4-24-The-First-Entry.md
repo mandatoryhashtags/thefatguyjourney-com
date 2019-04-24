@@ -5,8 +5,6 @@ date: 2019-04-23 2015 +6
 categories: weight-loss journey
 ---
 
-### And so it begins
-
 A new journey must begin. Last summer I set out on a journey for weight loss it did not go well. It ended around the time I had my life overwhelmed by work, followed by surgery.
 
 Many obese people like to make excuses for how the end up falling off the wagon, this is exactly what I did. I found excuses to fall off the wagon, and then my Appendix ruptured and due to complications during surgery I balooned to 400 pounds. 
@@ -17,13 +15,15 @@ I will also record what I am doing. This is no holds barred, I am even including
 
 ![What I look like now]({{ site.baseurl }}/images/progress/20190401-side.jpg)
 
+Yeah, thats me. That was on April 1 and I wish it was an April Fools Day joke. I am big I know.
+
 Sadly after speaking to a doctor I got devastating news. I do not have diabetes, I do not have overly high blood pressure, I do not have many issues except one. I have high liver enzymes.
 
 During my surgery it was discovered I have lost between 30-50% of my liver function due to [Fatty Liver disease](https://en.wikipedia.org/wiki/Fatty_liver_disease) this really was a gut check for me. It took me months to recover from surgery all the while I was gaining weight due to depression eating.
 
 I have never hidden the fact that I have a very unhealthy relationship with food. I eat to celebrate a good day or happy event and I eat to lament a bad day or sad event. My addiction is everywhere, I blame no one but myself for the state I am in.
 
-Yesterday I got three teeth pulled, my appendix ruptured and I am starting to feel like my body is breaking down. I can see the sun rising ahead of me and I am running to catch up. Pink Floyd really had something figured out with the song Time, as I age the song means more and more to me.
+Yesterday I got three teeth pulled, my appendix ruptured in December and I am starting to feel like my body is breaking down. I can see the sun rising ahead of me and I am running to catch up. Pink Floyd really had something figured out with the song Time, as I age the song means more and more to me.
 
 So what shall I do?
 
@@ -60,6 +60,7 @@ Its April 23rd your 395ish pounds. You just had three teeth pulled, setup your m
 Those my friend are ten of the reasons you are forcing yourself to lose weight. Don't let me down, I am counting on you to come through for me, I need to you stick with this. No matter how bad you want to quit, no matter how hard it is, how tired you are from the diet you do not want to be back here again. You are going to die. Let's do this.
 
 Sincerely,
+
 You
 
 
