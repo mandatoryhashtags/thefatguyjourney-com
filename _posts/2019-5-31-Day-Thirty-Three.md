@@ -10,30 +10,30 @@ A month has passed. I did my 1 month weigh in today.
 There is a weird quirk in the data but it is done.
 
 April 30th 2019 - 
-Weight: 391.6
-Height Inches: 75
-Neck Inches: 19
-Chest Inches: 55
-Bicep Inches: 16
-Forearm Inches: 15
-Wrist Inches: 8.5
-Stomach Inches: 57
-Hips Inches: 56
-Thigh Inches: 33
-Calf Inches: 20
+* Weight: 391.6
+* Height Inches: 75
+* Neck Inches: 19
+* Chest Inches: 55
+* Bicep Inches: 16
+* Forearm Inches: 15
+* Wrist Inches: 8.5
+* Stomach Inches: 57
+* Hips Inches: 56
+* Thigh Inches: 33
+* Calf Inches: 20
 
 May 31st 2019 - 
-Weight: 375.6
-Height Inches: 75
-Neck Inches: 19
-Chest Inches: 53 
-Bicep Inches: 15.5
-Forearm Inches: 13.5
-Wrist Inches: 8
-Stomach Inches: 60
-Hips Inches: 53
-Thigh Inches: 30
-Calf Inches: 20
+* Weight: 375.6
+* Height Inches: 75
+* Neck Inches: 19
+* Chest Inches: 53 
+* Bicep Inches: 15.5
+* Forearm Inches: 13.5
+* Wrist Inches: 8
+* Stomach Inches: 60
+* Hips Inches: 53
+* Thigh Inches: 30
+* Calf Inches: 20
 
 Overall great losses. Weird quirk in that my stomach gained 3 inches when I feel smaller but data is data.
 
