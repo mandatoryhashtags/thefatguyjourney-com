@@ -119,7 +119,7 @@ Sunday - Off
 * No workout, food cheat day
 
 
-So what exactly am I eating? I am glad you asked. I eat clean (mostly) I do eat some stuff that is not great like Sam's choice aged bacon and cheddar burgers. They are a good protein source, they are grilled so MFP is not exactly right on the fat content most of that coooks off on the grill. I do not eat enough vegetables which I have a problem here, I like veggies but my girlfriend hates them. I bought some stir fry veggies for food prep this week and will be adding them in.
+So what exactly am I eating? I am glad you asked. I eat clean (mostly) I do eat some stuff that is not great like Sam's choice aged bacon and cheddar burgers (yum!). They are a good protein source, they are grilled so MFP is not exactly right on the fat content most of that cooks off on the grill. I do not eat enough vegetables which I have a problem here, I like veggies but my girlfriend hates them. I bought some stir fry veggies for food prep this week and will be adding them in.
 
 I am also doing regular food prep (thank you Walmart Grocery orders). 
 
