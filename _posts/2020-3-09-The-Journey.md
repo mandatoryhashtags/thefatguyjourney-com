@@ -1,6 +1,6 @@
 ---
 layout: post
-title: They Journey
+title: The Journey
 date: 2020-03-09 0949 +6
 categories: weight-loss journey
 ---
